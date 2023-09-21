@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "407133451081",
+    "firebase_url": "https://pro-planet-person-app-g-default-rtdb.firebaseio.com",
+    "project_id": "pro-planet-person-app-g",
+    "storage_bucket": "pro-planet-person-app-g.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407133451081:android:9c31773748e9e7ef492098",
+        "android_client_info": {
+          "package_name": "com.byteforce.proplanetpersonapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "407133451081-nan3g6c5e5ptr9eeelnl4u7th6ni8qvk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.byteforce.proplanetpersonapp",
+            "certificate_hash": "52d3b599c1aa18a694e4bfb2e7b890b812bb091a"
+          }
+        },
+        {
+          "client_id": "407133451081-r19k3rb7rkml0n59cjcoifr5ubbq7t62.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJnB4QdVsn8Dw3GJId5tw9EOmGdv2tWR4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "407133451081-r19k3rb7rkml0n59cjcoifr5ubbq7t62.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
