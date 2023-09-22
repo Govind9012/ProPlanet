@@ -3,9 +3,12 @@
     <string name="earth_image">Earth Image</string>
     <string name="pro_planet"><b>Pro Planet Person App</b></string>
     <string name="welcome"><b>Welcome!</b></string>
-    <string name="sign_in">sign in - With Google</string>
-    <string name="log_in">Log in - I Already Have An Account</string>
+    <string name="sign_in">sign in - With Google(Under Development)</string>
+    <string name="log_in">Log in - As A Guest</string>
     <string name="text_page1">Become a Pro Planet Person :</string>
     <string name="home"><b>Home</b></string>
     <string name="default_web_client_id">default_web_client_id</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="our_misson">Our Misson</string>
+    <string name="my_plan">My Plan</string>
 </resources>
