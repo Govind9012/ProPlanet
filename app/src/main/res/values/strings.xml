@@ -9,6 +9,7 @@
     <string name="home"><b>Home</b></string>
     <string name="default_web_client_id">default_web_client_id</string>
     <string name="dashboard">Dashboard</string>
-    <string name="our_misson">Our Misson</string>
-    <string name="my_plan">My Plan</string>
+    <string name="our_misson">parental Control</string>
+    <string name="my_plan">My Tasks</string>
+    <string name="chose_your_language">Chose Your Language:\n अपनी भाषा चुनिए :</string>
 </resources>
